@@ -39,6 +39,15 @@ Node.js is listening to PORT:3000
 
 4. to stop, press Ctrl-C on the terminal you used in step 2.
 
+# How it works
+
+```
+These components are running in one container.
+
+[Browser with Terminal(xterm.js)] <---WebSocket(socket.io)---> [Server(Express.js with Socket.io)] ---ssh(ssh2.js)---> sshd
+
+```
+
 
 # prerequisites
 
