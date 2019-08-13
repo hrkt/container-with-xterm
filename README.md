@@ -35,7 +35,7 @@ Node.js is listening to PORT:3000
 
 3. open your brouser http://localhost:3000
 
-![terminal](https://github.com/hrkt/container-with-xterm/blob/site/login.png "sample")
+![terminal](https://github.com/hrkt/container-with-xterm/blob/master/site/login.png "sample")
 
 4. to stop, press Ctrl-C on the terminal you used in step 2.
 
