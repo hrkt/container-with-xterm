@@ -2,7 +2,7 @@
 
 ## It does...
 
-ontainer-with-xterm runs sshd inside the container and expose shell with "xterm.js".
+container-with-xterm runs sshd inside the container and expose shell with "xterm.js".
 
 ## It does not...
 
