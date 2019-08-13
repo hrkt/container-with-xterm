@@ -1,0 +1,8 @@
+{
+    "connection": {
+            "host": "127.0.0.1",
+            "port": 10022,
+            "user": "root",
+            "password": "THEPASSWORDYOUCREATED"
+    }
+}

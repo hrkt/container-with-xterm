@@ -1,0 +1,23 @@
+{
+  "name": "container-with-xterm",
+  "version": "0.0.1",
+  "description": "An example of xterm.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=dev node app.js",
+    "start": "NODE_ENV=prod node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "terminal"
+  ],
+  "author": "Hiroki Ito",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "ssh2": "^0.8.5",
+    "xterm": "^3.14.5"
+  }
+}
